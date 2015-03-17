@@ -1,5 +1,8 @@
 # cgss
 go语言编程第四章演示项目
+## 描述
+这是一个单机的聊天室程序，主要用来演示golang构建项目的一般做法，展示goroutine和channel的用法
+## 运行
 ```Bash
 $cd src/cgss
 $go run cgss.go
